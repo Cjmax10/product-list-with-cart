@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Code](https://your-solution-url.com)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Solution URL: [Github Code](https://github.com/Cjmax10/product-list-with-cart)
+- Live Site URL: [Live URL](https://cjmax10.github.io/product-list-with-cart/)
 
 ## My process
 

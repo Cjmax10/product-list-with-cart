@@ -374,6 +374,20 @@ button.confirm-order:hover {
     padding: 0 20px;
 }
 
+.order-name {
+    color: #3b3024;
+    font-weight: 600;
+}
+
+.order-count {
+    color: #a4462d;
+    font-weight: 600;
+}
+
+.order-base-price {
+    color: #a19d95;
+}
+
 .order-content {
     display: flex;
     gap: 20px;

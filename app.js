@@ -248,6 +248,14 @@ function populateInitialData(data) {
             location.reload();
             window.scrollTo(0,0);
         })
+
+        body.addEventListener('click', (e) => {
+            if(e.target.classList.contains('overlay')) {
+                overlay.classList.remove('active');
+                modal.classList.remove('active');
+                body.classList.remove('no-scroll');
+            }
+        });
     }
 
     function populateModal() {
